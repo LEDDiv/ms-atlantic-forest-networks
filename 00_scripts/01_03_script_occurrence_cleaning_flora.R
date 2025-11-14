@@ -1,6 +1,5 @@
 #' ---
 #' title: plataforma sn - cleaning data - flora
-#' author: mauricio vancine
 #' date: 2024-04-10
 #' ---
 

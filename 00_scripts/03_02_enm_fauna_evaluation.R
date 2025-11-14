@@ -1,6 +1,5 @@
 #' ---
 #' title: sdm - evaluation
-#' author: mauricio vancine
 #' date: 2024-04-08
 #' ---
 
@@ -15,13 +14,13 @@ library(ecospat)
 # import ------------------------------------------------------------------
 
 # species
-sp_list <- dir(path = "D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/02_results/01_fauna/", full.names = TRUE)[-1]
+sp_list <- dir(path = "02_results/01_fauna/", full.names = TRUE)[-1]
 sp_list
 
-birds <- read.table("D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/01_data/00_occurrences/01_fauna/Bird_list.txt")
+birds <- read.table("01_data/00_occurrences/01_fauna/Bird_list.txt")
 birds
 
-mammals <- read.table("D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/01_data/00_occurrences/01_fauna/Mammal_list.txt")
+mammals <- read.table("01_data/00_occurrences/01_fauna/Mammal_list.txt")
 mammals
 
 sp_list_birds <- sp_list[grepl(paste0(gsub("_", " ", birds$x), collapse = "|"), sp_list)]

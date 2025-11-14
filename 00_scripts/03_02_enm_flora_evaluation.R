@@ -16,9 +16,9 @@ library(ecospat)
 # import ------------------------------------------------------------------
 
 # species
-sp_list01 <- dir(path = "D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/02_results/00_flora/", full.names = TRUE)[-1]
-sp_list02 <- dir(path = "D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/02_results/00_flora_v02/", full.names = TRUE)[-c(1, 2)]
-sp_list03 <- dir(path = "D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/02_results/00_flora_v02/01_not_priority/", full.names = TRUE)[-1]
+sp_list01 <- dir(path = "02_results/00_flora/", full.names = TRUE)[-1]
+sp_list02 <- dir(path = "02_results/00_flora_v02/", full.names = TRUE)[-c(1, 2)]
+sp_list03 <- dir(path = "02_results/00_flora_v02/01_not_priority/", full.names = TRUE)[-1]
 
 sp_list <- c(sp_list01, sp_list02, sp_list03)
 sp_list

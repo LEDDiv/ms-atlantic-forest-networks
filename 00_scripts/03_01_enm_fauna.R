@@ -1,6 +1,5 @@
 #' ---
 #' title: sdm enmeval fauna
-#' author: mauricio vancine
 #' date: 2023-04-21
 #' ---
 

@@ -1,6 +1,5 @@
 #' ---
 #' title: download occurrences - ebird
-#' author: mauricio vancine
 #' date: 2024-08-22
 #' ---
 

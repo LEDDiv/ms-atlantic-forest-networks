@@ -2,9 +2,6 @@
 #Network analysis
 #===========================================
 
-#------------ Computing local network structural metrics-----------
-#load("D:/Rubia e Mauricio/coisas mestrado_espacial/Mauricio/R.Datas/full_edgelists2_18_05.RData")
-setwd("D:/Rubia e Mauricio/AF_networks")
 #----------------Function to generate a matrix--------------
 
 # packages

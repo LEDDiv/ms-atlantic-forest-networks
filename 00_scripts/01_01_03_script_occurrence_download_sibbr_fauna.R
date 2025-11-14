@@ -1,6 +1,5 @@
 #' ---
 #' title: ocorrencias - sibbr
-#' author: mauricio vancine
 #' date: 2024-01-30
 #' ---
 

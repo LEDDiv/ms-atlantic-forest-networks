@@ -1,8 +1,6 @@
 #' ---
 #' title: ms-network
-#' author: mauricio vancine
 #' date: 2024-08-22
-#' aim: integrated occurrences
 #' ---
 
 # prepare r ---------------------------------------------------------------

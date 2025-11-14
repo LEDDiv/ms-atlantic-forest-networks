@@ -1,6 +1,5 @@
 #' ---
 #' title: download and integration ocorrencias
-#' author: mauricio vancine
 #' date: 2024-01-30
 #' ---
 

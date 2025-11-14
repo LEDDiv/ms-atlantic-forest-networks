@@ -1,8 +1,6 @@
 #' ---
 #' title: ms-network - iucn
-#' author: mauricio vancine
 #' date: 2024-08-22
-#' aim: cleaning occurrences
 #' ---
 
 # prepare r ---------------------------------------------------------------

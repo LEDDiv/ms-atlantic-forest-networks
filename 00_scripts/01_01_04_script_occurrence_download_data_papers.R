@@ -1,6 +1,5 @@
 #' ---
 #' title: ocorrencias - data papers
-#' author: mauricio vancine
 #' date: 2024-01-30
 #' ---
 

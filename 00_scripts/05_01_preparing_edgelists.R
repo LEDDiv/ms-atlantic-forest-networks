@@ -6,7 +6,6 @@ library(tidyverse)
 library(vroom)
 
 #edge list - metanetwork
-#edge_list <- read.csv("./data/final_edge_list_july25.csv", sep=",")
 edge_list <- read.csv("./data/final_edge_list_Nov25.csv", sep=",")
 
 edge_list <- edge_list %>%
